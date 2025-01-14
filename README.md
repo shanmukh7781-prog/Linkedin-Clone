@@ -9,4 +9,5 @@ Deployment:
 The application is currently deployed on Netlify: https://jolly-salmiakki-525a09.netlify.app/
 Note: For the best experience, please open this application on a desktop browser.
 
+![linkedin image](https://github.com/user-attachments/assets/40a0a251-6d93-4a1a-9238-565f47120fd9)
 
