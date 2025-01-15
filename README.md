@@ -5,10 +5,6 @@ The backend is built on Node.js, supporting real-time data processing, user mana
 Technologies:
 Frontend: React, Tailwind CSS
 Backend: Node.js
-Deployment:
-The application is currently deployed on Netlify: https://golden-rolypoly-865172.netlify.app/
-
-Note: For the best experience, please open this application on a desktop browser.
 
 ![linkedin image](https://github.com/user-attachments/assets/40a0a251-6d93-4a1a-9238-565f47120fd9)
 
